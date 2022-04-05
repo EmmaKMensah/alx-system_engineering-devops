@@ -1,2 +1,2 @@
-"Script to print Hello world"
+Script to print Hello world
 
