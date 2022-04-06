@@ -1,2 +1,2 @@
 #!/bin/bash
-less 5-listfilesdigitonly
+ls -lna
